@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/Granit-Syla">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=andib0&show_icons=true&theme=react" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Granit-Syla&show_icons=true&theme=react" />
   </a>
   <a href="https://github.com/Granit-Syla">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=andib0&layout=compact&langs_count=8&theme=react" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=Granit-Syla&layout=compact&langs_count=8&theme=react" />
   </a>
 </div>
 
